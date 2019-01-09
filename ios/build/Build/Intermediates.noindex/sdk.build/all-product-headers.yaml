@@ -1,0 +1,63 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/build/Build/Products/Debug-iphonesimulator/JitsiMeet.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AddPeopleController.h",
+          'external-contents': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/sdk/src/invite/AddPeopleController.h"
+        },
+        {
+          'type': 'file',
+          'name': "AddPeopleControllerDelegate.h",
+          'external-contents': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/sdk/src/invite/AddPeopleControllerDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "InviteController.h",
+          'external-contents': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/sdk/src/invite/InviteController.h"
+        },
+        {
+          'type': 'file',
+          'name': "InviteControllerDelegate.h",
+          'external-contents': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/sdk/src/invite/InviteControllerDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "JitsiMeet-Swift.h",
+          'external-contents': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/build/Build/Products/Debug-iphonesimulator/JitsiMeet.framework/Headers/JitsiMeet-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JitsiMeet.h",
+          'external-contents': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/sdk/src/JitsiMeet.h"
+        },
+        {
+          'type': 'file',
+          'name': "JitsiMeetView.h",
+          'external-contents': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/sdk/src/JitsiMeetView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JitsiMeetViewDelegate.h",
+          'external-contents': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/sdk/src/JitsiMeetViewDelegate.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/build/Build/Products/Debug-iphonesimulator/JitsiMeet.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/build/Build/Intermediates.noindex/sdk.build/Debug-iphonesimulator/JitsiMeet.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

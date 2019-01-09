@@ -1,0 +1,10 @@
+framework module JitsiMeet {
+  umbrella header "JitsiMeet.h"
+
+  export *
+  module * { export * }
+}
+
+module JitsiMeet.__Swift {
+    exclude header "JitsiMeet-Swift.h"
+}

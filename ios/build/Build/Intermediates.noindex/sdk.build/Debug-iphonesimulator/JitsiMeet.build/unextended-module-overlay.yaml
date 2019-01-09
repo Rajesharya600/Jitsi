@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/build/Build/Products/Debug-iphonesimulator/JitsiMeet.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/ios/build/Build/Intermediates.noindex/sdk.build/Debug-iphonesimulator/JitsiMeet.build/unextended-module.modulemap',
+    }]
+  }]
+}

@@ -1,0 +1,492 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:17:1-72:12
+MERGED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/c2c6baaab001efc258a4506f40333b86/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.0.aar/bc654d071bf0e53264a0d1b9237282bc/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/48ba7bdcb27dbd90b99c827f61fff791/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0573d07a35619db4b59c751492d958f5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5eb7295457fd65af22d956e8afa1216a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/af9c95b2c40fe5e67a44de6ca8d649ed/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-background-timer] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-background-timer/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-calendar-events] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-calendar-events/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-fast-image] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-fast-image/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-google-signin] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-google-signin/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-immersive] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-immersive/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-keep-awake] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-keep-awake/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webrtc] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-webrtc/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/cdfed2d9fa593e978fccc182f07de7c4/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/20be23647a41c0efc123e89247e37c54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-4.7.1.aar/af3903b7bbaea153ce0a3e9a2bb5fd5e/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/7f197d5505812dc8b86c74a89fdd1272/AndroidManifest.xml:2:1-13:12
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/6040b37ee6382646772397f04564ee58/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bdc75b46a4d6ad2eb482253cb5e3dbb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a3dd210ef28594f1731ce61707cd07cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f82760081cb6efe0d4b9b6283548477b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/76f6dd82b092c1af392f7e14b74ba0bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ac87da05984f799812247ba1b86164de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aaf6c7857f5ec506f274ef1f97d61b63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7b39264ff68d50cd4501b52f0c6aca29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/617a6aa956ffbe0a46a87e8f33cd892c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/94150d729198d2fd5416d69f08caa4af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/04f729a1604d183a4141bbe9b458c1a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/121f4de0fe5282aaa1597439a695d533/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1a86965e88b64cb6bf3235184351bbd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/33deeac4d9f23254faabe0ff64504d7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4db6aaa396c6078f99fc939e40ffac80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3895bc589198c1e6f270c1d1e3760bcc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1542c502716a739710d586824510afc/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95df2038620063f37edf068790c21d42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ec4093b2442723d70857b86931c4f38e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/251224ff8a379b30385c2003c06ea2e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2dc59ec04d74cd5464c9e37aead7646e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/eab8489e7f3b758191da846ac472d9de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d8b575ddb5ac5c6139569e89499b1c4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/757bc62a37d1770105bb747912e43491/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5fc4daada3cf2458df27f6868d5bf364/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a1ab304a7641cbee5c0ae5bd3e86275d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c3a4dbc826ce55cb56a6c9a6ae399737/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0afc4f5e5e91117f67a23e14b00c1df3/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r224109] /Users/user/.gradle/caches/transforms-1/files-1.1/android-jsc-r224109.aar/25d70ed2b88892cd472d328f249ae982/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sound] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-sound/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/1b6e4f5bd25f97bf10dc949d789f162a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/4e23e2a7473f828ecb81f1550fcd7f10/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/4f2edfaeec1a24d099327a96dec7c58d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/0715332c2048d3e94d74f199635fc52d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e07dc897c4988d09fdbd0a2fea3b457d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/user/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7dfead9fb152797541bdf8c8fc93837a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e191ef25263d28e2daa5bfc9e79db5bd/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:2:5-63
+application
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:4:3-37:17
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:26:5-70:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:26:5-70:19
+MERGED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:29:5-34:19
+MERGED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:29:5-34:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/48ba7bdcb27dbd90b99c827f61fff791/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/48ba7bdcb27dbd90b99c827f61fff791/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0573d07a35619db4b59c751492d958f5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0573d07a35619db4b59c751492d958f5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5eb7295457fd65af22d956e8afa1216a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5eb7295457fd65af22d956e8afa1216a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/cdfed2d9fa593e978fccc182f07de7c4/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/cdfed2d9fa593e978fccc182f07de7c4/AndroidManifest.xml:13:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-4.7.1.aar/af3903b7bbaea153ce0a3e9a2bb5fd5e/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-4.7.1.aar/af3903b7bbaea153ce0a3e9a2bb5fd5e/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/7f197d5505812dc8b86c74a89fdd1272/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/7f197d5505812dc8b86c74a89fdd1272/AndroidManifest.xml:11:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/6040b37ee6382646772397f04564ee58/AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/6040b37ee6382646772397f04564ee58/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3895bc589198c1e6f270c1d1e3760bcc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3895bc589198c1e6f270c1d1e3760bcc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1542c502716a739710d586824510afc/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1542c502716a739710d586824510afc/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ec4093b2442723d70857b86931c4f38e/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ec4093b2442723d70857b86931c4f38e/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/user/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7dfead9fb152797541bdf8c8fc93837a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/user/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7dfead9fb152797541bdf8c8fc93837a/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3895bc589198c1e6f270c1d1e3760bcc/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:7:7-39
+	android:icon
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:6:7-41
+	android:allowBackup
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:5:7-33
+	android:theme
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:10:7-38
+	android:networkSecurityConfig
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:9:7-67
+	android:name
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#org.jitsi.meet.MainActivity
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:11:5-36:16
+	android:label
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:13:9-41
+	android:launchMode
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:14:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:supportsPictureInPicture
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:17:9-48
+	android:resizeableActivity
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:16:9-42
+	android:configChanges
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:12:9-111
+	android:name
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:19:7-22:23
+action#android.intent.action.MAIN
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:21:9-69
+	android:name
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:21:19-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:beta.meet.jit.si+data:host:meet.jit.si+data:scheme:https+data:scheme:https
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:23:7-29:23
+action#android.intent.action.VIEW
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:24:9-61
+	android:name
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:24:17-58
+category#android.intent.category.BROWSABLE
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:25:9-70
+	android:name
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:25:19-67
+category#android.intent.category.DEFAULT
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:26:9-68
+	android:name
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:26:19-65
+data
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:27:9-72
+	android:host
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:27:15-46
+	android:scheme
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:27:47-69
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:org.jitsi.meet
+ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml:30:7-35:23
+uses-sdk
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:20:5-44
+MERGED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/c2c6baaab001efc258a4506f40333b86/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/c2c6baaab001efc258a4506f40333b86/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.0.aar/bc654d071bf0e53264a0d1b9237282bc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.0.aar/bc654d071bf0e53264a0d1b9237282bc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/48ba7bdcb27dbd90b99c827f61fff791/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/48ba7bdcb27dbd90b99c827f61fff791/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0573d07a35619db4b59c751492d958f5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/0573d07a35619db4b59c751492d958f5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5eb7295457fd65af22d956e8afa1216a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5eb7295457fd65af22d956e8afa1216a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/af9c95b2c40fe5e67a44de6ca8d649ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/af9c95b2c40fe5e67a44de6ca8d649ed/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-background-timer] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-background-timer/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-background-timer/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-calendar-events/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-calendar-events/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-fast-image/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-fast-image/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-google-signin/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-google-signin/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immersive] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-immersive/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immersive] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-immersive/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-keep-awake/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-keep-awake/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-webrtc/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-webrtc/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/cdfed2d9fa593e978fccc182f07de7c4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/cdfed2d9fa593e978fccc182f07de7c4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/20be23647a41c0efc123e89247e37c54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/20be23647a41c0efc123e89247e37c54/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-4.7.1.aar/af3903b7bbaea153ce0a3e9a2bb5fd5e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-4.7.1.aar/af3903b7bbaea153ce0a3e9a2bb5fd5e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/7f197d5505812dc8b86c74a89fdd1272/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/7f197d5505812dc8b86c74a89fdd1272/AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/6040b37ee6382646772397f04564ee58/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/6040b37ee6382646772397f04564ee58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bdc75b46a4d6ad2eb482253cb5e3dbb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bdc75b46a4d6ad2eb482253cb5e3dbb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a3dd210ef28594f1731ce61707cd07cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a3dd210ef28594f1731ce61707cd07cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f82760081cb6efe0d4b9b6283548477b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f82760081cb6efe0d4b9b6283548477b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/76f6dd82b092c1af392f7e14b74ba0bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/76f6dd82b092c1af392f7e14b74ba0bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ac87da05984f799812247ba1b86164de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ac87da05984f799812247ba1b86164de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aaf6c7857f5ec506f274ef1f97d61b63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aaf6c7857f5ec506f274ef1f97d61b63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7b39264ff68d50cd4501b52f0c6aca29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7b39264ff68d50cd4501b52f0c6aca29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/617a6aa956ffbe0a46a87e8f33cd892c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/617a6aa956ffbe0a46a87e8f33cd892c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/94150d729198d2fd5416d69f08caa4af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/94150d729198d2fd5416d69f08caa4af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/04f729a1604d183a4141bbe9b458c1a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/04f729a1604d183a4141bbe9b458c1a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/121f4de0fe5282aaa1597439a695d533/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/121f4de0fe5282aaa1597439a695d533/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1a86965e88b64cb6bf3235184351bbd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1a86965e88b64cb6bf3235184351bbd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/33deeac4d9f23254faabe0ff64504d7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/33deeac4d9f23254faabe0ff64504d7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4db6aaa396c6078f99fc939e40ffac80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4db6aaa396c6078f99fc939e40ffac80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3895bc589198c1e6f270c1d1e3760bcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3895bc589198c1e6f270c1d1e3760bcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1542c502716a739710d586824510afc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e1542c502716a739710d586824510afc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95df2038620063f37edf068790c21d42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95df2038620063f37edf068790c21d42/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ec4093b2442723d70857b86931c4f38e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ec4093b2442723d70857b86931c4f38e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:documentfile:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/251224ff8a379b30385c2003c06ea2e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/251224ff8a379b30385c2003c06ea2e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2dc59ec04d74cd5464c9e37aead7646e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2dc59ec04d74cd5464c9e37aead7646e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/eab8489e7f3b758191da846ac472d9de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/eab8489e7f3b758191da846ac472d9de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d8b575ddb5ac5c6139569e89499b1c4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d8b575ddb5ac5c6139569e89499b1c4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/757bc62a37d1770105bb747912e43491/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/757bc62a37d1770105bb747912e43491/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5fc4daada3cf2458df27f6868d5bf364/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5fc4daada3cf2458df27f6868d5bf364/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a1ab304a7641cbee5c0ae5bd3e86275d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a1ab304a7641cbee5c0ae5bd3e86275d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c3a4dbc826ce55cb56a6c9a6ae399737/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c3a4dbc826ce55cb56a6c9a6ae399737/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0afc4f5e5e91117f67a23e14b00c1df3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0afc4f5e5e91117f67a23e14b00c1df3/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r224109] /Users/user/.gradle/caches/transforms-1/files-1.1/android-jsc-r224109.aar/25d70ed2b88892cd472d328f249ae982/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r224109] /Users/user/.gradle/caches/transforms-1/files-1.1/android-jsc-r224109.aar/25d70ed2b88892cd472d328f249ae982/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-sound/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-sound/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/1b6e4f5bd25f97bf10dc949d789f162a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/1b6e4f5bd25f97bf10dc949d789f162a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/4e23e2a7473f828ecb81f1550fcd7f10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/4e23e2a7473f828ecb81f1550fcd7f10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/4f2edfaeec1a24d099327a96dec7c58d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/4f2edfaeec1a24d099327a96dec7c58d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/0715332c2048d3e94d74f199635fc52d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/0715332c2048d3e94d74f199635fc52d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e07dc897c4988d09fdbd0a2fea3b457d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e07dc897c4988d09fdbd0a2fea3b457d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/user/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7dfead9fb152797541bdf8c8fc93837a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/user/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7dfead9fb152797541bdf8c8fc93837a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e191ef25263d28e2daa5bfc9e79db5bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/user/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e191ef25263d28e2daa5bfc9e79db5bd/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:24:22-78
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:27:9-30:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:30:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:28:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:31:9-34:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:34:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:32:13-70
+provider#com.squareup.leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:38:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:37:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:41:13-43:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:43:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:42:17-67
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:46:9-59:20
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:51:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:48:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:50:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:49:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:53:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:52:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:47:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:60:9-69:68
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:66:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:62:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:65:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:63:13-46
+	android:roundIcon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:67:13-57
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:64:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:69:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:68:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/user/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/ce89e91fd0484eabca8cde61d0fc9193/AndroidManifest.xml:61:13-93
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.CAMERA
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.INTERNET
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/cdfed2d9fa593e978fccc182f07de7c4/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/cdfed2d9fa593e978fccc182f07de7c4/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:5-68
+MERGED from [:react-native-background-timer] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-background-timer/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-68
+MERGED from [:react-native-background-timer] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-background-timer/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:22-73
+uses-feature#0x00020000
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-21:35
+	android:glEsVersion
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:9-41
+	android:required
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:9-32
+uses-feature#android.hardware.camera
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:23:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:26:9-57
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:33:9-86
+	android:name
+		ADDED from [:sdk] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/android/sdk/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:33:19-83
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/1580572431ca3abe48b223f70e2ba30a/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/48ba7bdcb27dbd90b99c827f61fff791/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/48ba7bdcb27dbd90b99c827f61fff791/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/48ba7bdcb27dbd90b99c827f61fff791/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/48ba7bdcb27dbd90b99c827f61fff791/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5eb7295457fd65af22d956e8afa1216a/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5eb7295457fd65af22d956e8afa1216a/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/5eb7295457fd65af22d956e8afa1216a/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [:react-native-calendar-events] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-calendar-events/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from [:react-native-calendar-events] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-calendar-events/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [:react-native-calendar-events] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-calendar-events/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from [:react-native-calendar-events] /Users/user/Documents/Ritviz/React Projects/jitsi-conferencing app/node_modules/react-native-calendar-events/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:22-69
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-4.7.1.aar/af3903b7bbaea153ce0a3e9a2bb5fd5e/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-4.7.1.aar/af3903b7bbaea153ce0a3e9a2bb5fd5e/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.7.1] /Users/user/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-4.7.1.aar/af3903b7bbaea153ce0a3e9a2bb5fd5e/AndroidManifest.xml:12:13-84
