@@ -4,8 +4,6 @@ Jitsi Meet allows for very efficient collaboration. It allows users to stream th
 
 ## Installation
 
-# Commands to run jitsi app on device
-
 # To install node modules
 
 npm install
